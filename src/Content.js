@@ -16,7 +16,7 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/hitecmart.png";
+import project1 from "./assets/images/Projects/hitecmart.png";
 import project2 from "./assets/images/projects/food.png";
 import project3 from "./assets/images/projects/todo.png";
 import project4 from "./assets/images/projects/food.png";
